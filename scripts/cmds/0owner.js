@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '🔰𝙊𝙒𝙉𝙀𝙍 𝙄𝙉𝙁𝙊🔰\n\n ◉❖जुल्मी≛जाट❖◉\ (─━━◉❖𝗝𝗨𝗟𝗠𝗜≛𝗝𝗔𝗔𝗧❖◉━━─)(•◡•)\n\n𝐀𝐠𝐞 : 23\n\n𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐖𝐢𝐭𝐡 :-🄿🅁🄴🄴🅃(ɴᴀᴅᴀɴ ʙᴄʜɪ)\n\n𝐅𝐫𝐨𝐦 : 𝐉𝐈𝐍𝐃(𝐇𝐀𝐑𝐘𝐀𝐍𝐀)\n\n𝐒𝐭𝐮𝐝𝐲 : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠\n\n𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 :-👇👇https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL \n\n𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤:-👉 :https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==',
+      name: '🔰𝙊𝙒𝙉𝙀𝙍 𝙄𝙉𝙁𝙊🔰\n\n ◉❖❖◉\ (─━━◉❖Fƛtʜɘʀ Of-ƛɭɭ ĸɩŋʛs Ft-ƛryan❖◉━━─)(•◡•)\n\n𝐀𝐠𝐞 : 23\n\n𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐖𝐢𝐭𝐡 :-(Tumari Bhen)\n\n𝐅𝐫𝐨𝐦 : 𝐉𝐈𝐍𝐃\n\n𝐒𝐭𝐮𝐝𝐲 : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠\n\n𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 :-👇👇 \n\n𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤:-👉 :https://www.facebook.com/profile.php?id=100092192215832',
       gender: 'Male',
-      age: '24',
+      age: '19',
       height: '5.10',
-      facebookLink: 'https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL',
-      nick: 'JULMI', 
+      facebookLink: 'https://www.facebook.com/profile.php?id=100092192215832',
+      nick: 'Babu', 
     };
 
     const bold = 'https://i.imgur.com/HnxHi6i.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
