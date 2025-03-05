@@ -35,33 +35,33 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078833520452", 
-    "100078833520452", 
-    "100078833520452"
+    "100078402466600", 
+    "100092192215832", 
+    "100069837848839"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100078833520452", 
-      "100078833520452", 
-      "100078833520452"
+      "100069837848839", 
+      "100092192215832", 
+      "61552831563668"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "✦𝗝𝗔𝗔𝗧✦",
-  "prefix": "#",
+  "nickNameBot": "✦—  𝗦𝗶𝗻𝗻𝗲𝗿 »⟵͓̽།།💙✦",
+  "prefix": "*",
   "BaYjidapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "─━━◉❖𝗝𝗨𝗟𝗠𝗜≛𝗝𝗔𝗔𝗧❖◉━━─",
-  "facebook2": "https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL",
-  "facebook": "https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL",
+  "authorName": "─━━一 īī ɭovƏ Yoʋ ꪹ 爾 公◉━━─",
+  "facebook2": "https://www.facebook.com/profile.php?id=61552831563668",
+  "facebook": "https://www.facebook.com/profile.php?id=100092192215832",
   "email": "",
   "replit": "",
   "github": "",
-  "insta": "https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==",
-  "age": "24",
+  "insta": "",
+  "age": "19",
   "TG": "",
   "database": {
     "type": "sqlite",
